@@ -55,5 +55,5 @@ DIVIDE(
 
 
 # See the live dashboard
-You don't need to download anything. Click here to view it: [view the live dashboard]([url](https://app.powerbi.com/groups/me/reports/afa9e669-12e4-4b51-b7d7-677cfa889318/f52329e375eceb6b172f?experience=power-bi)
+You don't need to download anything. Click here to view it: [view the live dashboard]([https://app.powerbi.com/groups/me/reports/afa9e669-12e4-4b51-b7d7-677cfa889318/f52329e375eceb6b172f?experience=power-bi]
 
