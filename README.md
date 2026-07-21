@@ -14,8 +14,6 @@ I wanted to answer some real questions about working in data:
 The data comes from a survey with 630 answers. It has information like job title, salary, industry, favorite programming language, happiness scores (0 to 10), country, age, gender, and education.	
 
 
-
-
 # Toots I used 
 * Power Query to clean the data
 * Power BI to build the dashboard
@@ -43,7 +41,7 @@ DIVIDE(
 
 # What's in the dashboard
 
-* Cards showing total respondents, average age, and average salary
+* Cards showing total respondents and  average age
 * A bar chart comparing average salary by job title
 * A chart showing the most popular programming languages
 * A breakdown of respondents by country
@@ -52,8 +50,9 @@ DIVIDE(
 * Filters so you can click on a job title, country, or gender and see the dashboard change
 
 # What I learned
-
-
+Data Scientist is highiest job salary, 
+85% of data architect are male and 
+Favorite programming language for data analyst is python by 255 of voter 
 # See the live dashboard
 You don't need to download anything. Click here to view it: [view the live dashboard](https://app.powerbi.com/groups/me/reports/afa9e669-12e4-4b51-b7d7-677cfa889318/f52329e375eceb6b172f?experience=power-bi)
 
